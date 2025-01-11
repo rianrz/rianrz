@@ -2,4 +2,4 @@
 - 👀 I’m interested in data science, machine learning and software engineering
 - 🌱 I’m currently learning web scrapping with Python, object-oriented programming with C# and correlation between Javascript, Php and Html
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love and hate math.
+- ⚡ Fun fact: I love math.
