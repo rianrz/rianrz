@@ -7,21 +7,21 @@
 </p>
 
 <p align="left">
- [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven)](https://skillicons.dev)
+
 ---
+
 </p>
 
 <p align="left">
-  ### 💻 My Development Evironment
+  <h1>💻 My Development Evironment</h1>
 
-![Pop!_OS](https://shields.io)
-![Linux](https://shields.io)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)
 
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo por meio desses canais de comunicação: ⤵️
 </p>
 
 <p align="left">
