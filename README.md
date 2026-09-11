@@ -10,12 +10,11 @@
 </p>
 
 <p align="left">
-
+---
+  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven" alt="My Skills" />
 </a>
-
----
 
 ---
 
@@ -24,8 +23,9 @@
 <p align="left">
 💻 My Development Evironment
 <h2><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white" alt="Pop! OS"/></h2>
-
+  
 </p>
+---
 
 <p align="left">
   💌 Entre em contato comigo por meio desses canais de comunicação: ⤵️
