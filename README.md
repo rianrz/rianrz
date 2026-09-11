@@ -22,8 +22,7 @@
 </p>
 
 <p align="left">
-  <h2>💻 My Development Evironment</h2>
-
+💻 My Development Evironment
 <h2><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white" alt="Pop! OS"/></h2>
 
 </p>
