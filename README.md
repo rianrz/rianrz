@@ -2,21 +2,29 @@
 
 <p align="left"> 
   My name is Rian Fernandes Paes, I'm backend developer focused on machine learning and data science. <br>
+  
   These days I'm learning more about Linux, OS licenses, file systems, and the many possible modifications. Furthermore, I have recently been testing examples and ways to use the Ollama4j. <br>
+  
   Student of the Higher Education Technology Course in Databases at the Faculty of Technology of São José dos Campos (BD - Fatec).
+  
 </p>
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven)](https://skillicons.dev)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven" alt="My Skills" />
+</a>
+
+---
 
 ---
 
 </p>
 
 <p align="left">
-  <h1>💻 My Development Evironment</h1>
+  <h2>💻 My Development Evironment</h2>
 
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)
+<h2>![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)</h2>
 
 </p>
 
