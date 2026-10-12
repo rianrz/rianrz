@@ -34,7 +34,7 @@
 
 <p align="left">
   <a href="#" title="ProtonMail">
-  <img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white&link=rianrz@proton.me" alt="ProtonMail"/></a> <p>rianrz@proton.me</p> <br>
+  <img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white&link=rianrz@proton.me" alt="ProtonMail"/></a> <a href="mailto:rianrz@proton.me">Enviar e-mail para mim</a> <br>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-fernandes/" alt="LinkedIn"/></a> <p>www.linkedin.com/in/rian-fernandes/</p> <br>
  <a href="#" title="Instagram">
