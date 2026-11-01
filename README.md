@@ -14,7 +14,7 @@
 ---
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,ubuntu,maven" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,linux,maven" alt="My Skills" />
 </a>
 
 ---
@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  💌 Entre em contato comigo por meio desses canais de comunicação: ⤵️
+  💌 Reach out to me via: ⤵️
 </p>
 
 <p align="left">
