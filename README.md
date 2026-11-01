@@ -14,7 +14,7 @@
 ---
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,linux,maven" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,js,mysql,php,py,linux,ollama" alt="My Skills" />
 </a>
 
 ---
